@@ -1,0 +1,24 @@
+# Core dependencies
+PyQt5>=5.15
+PySide6>=6.9
+
+# OCR processing
+pytesseract>=0.3.13
+pillow>=11.3
+opencv-python>=4.12
+
+# NLP processing
+transformers>=4.53
+torch>=2.7
+spacy>=3.8
+sentencepiece>=0.2
+
+# Additional utilities
+numpy>=2.2
+pandas>=2.3
+tqdm>=4.67
+python-dotenv>=1.1
+python-docx>=1.2
+
+# Bangla-specific packages
+bnunicodenormalizer>=0.1  # For Bangla text normalization
