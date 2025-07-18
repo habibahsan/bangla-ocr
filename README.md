@@ -13,7 +13,7 @@ An Optical Character Recognition (OCR) application for Bangla image to text conv
 ## Installation
 
 ### Windows Executable
-1. Download the latest release from [Releases]()
+1. Download the latest release from [Bangla OCR v1.0](https://github.com/habibahsan/bangla-ocr/releases/tag/v1.0)
 2. Run `BanglaOCR.exe`
 
 ### From Source
@@ -44,7 +44,7 @@ python build.py
 
 ## Requirements
 - Python 3.12
-- Tesseract OCR 5.x
+- Tesseract OCR 5.x [Official Installer](https://github.com/UB-Mannheim/tesseract/wiki)
 - 4GB+ RAM (8GB recommended for BERT model)
 
 ## License
